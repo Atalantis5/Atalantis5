@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @Atalantis5;
 - 👀 I’m interested in coding,playing Minecraft，playing basketball and watching FORGED IN FIRE;
 - 🌱 I’m currently learning c++;
-- 💞️ I’m learning for IOI;
+- 💞️ I’m learning for AK IOI;
 - return 0;
 - }
 
